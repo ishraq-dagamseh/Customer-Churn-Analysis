@@ -1,5 +1,8 @@
 # Customer-Churn-Analysis
-In this repository, we applied data analysis to a customer churn dataset for a telecom provider.
+In this repository, we applied data analysis to a customer churn dataset for a telecom provider using Excel.
+The Next image is the created Dashboard using Excel 
+<img width="997" height="503" alt="image" src="https://github.com/user-attachments/assets/ae1108ef-bd59-44e3-9f20-717a1a4a8a8a" />
+
 # Overall Churn Performance
 Total Customers: 6,687
 Churned Customers: 1,796

@@ -11,8 +11,7 @@ Churn Rate: 26.86%
 This indicates that nearly 1 out of every 4 customers left the service, which represents a relatively high churn level and suggests the need for stronger customer retention strategies.
 
 # Main Reasons for Customer Churn
-
-- [ ] From our dashboard we summarised the most affected reasons based on multiple factors:
+From our dashboard we summarised the most affected reasons based on multiple factors:
  1. Most reason to churned the customers was  from the competitors who had been offering better services and offers. Then we made deep analysis to found the most two services that attracted the customers were from the competitors : that made better offerings to the customers then these competitors who had better devices. 
 2. Based on the demographic data we found that the most churning was from seniors.
  3. Based on the age of churned customers, we found that people in older ages were tended to leave the company services.

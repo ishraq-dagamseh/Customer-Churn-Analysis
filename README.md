@@ -12,66 +12,12 @@ This indicates that nearly 1 out of every 4 customers left the service, which re
 
 # Main Reasons for Customer Churn
 
-The dashboard shows that the most significant churn drivers are:
-
-Competitor-related reasons (highest impact)
-Competitor offered better deals
-Competitor provided better devices
-Competitor offered more data
-Attitude of support/service staff
-Price dissatisfaction
-
-This suggests that customers are highly sensitive to:
-
-Pricing
-Service quality
-Competitive offers
-Product value
-Competitor Churn Analysis
-
-The largest portions of churn came from:
-
-Better competitor offers
-Better devices
-More data packages
-
-This confirms that market competition is the primary factor behind customer loss.
-
-# Demographic Insights
-Churn by Age Group
-Older age groups (especially 69–78 years) show the highest churn percentages.
-Younger and middle-age customers have comparatively lower churn rates.
-
-This may indicate:
-
-Lower satisfaction among senior users
-Difficulty adapting to services or pricing plans
-Consumption Behavior Analysis
-
-Customers with:
-
-5–10 GB usage show the highest churn level.
-Lower usage groups (<5 GB) have relatively lower churn.
-
-This suggests that medium-to-high usage customers may expect:
-
-Better pricing
-Larger data plans
-Improved service quality
-Geographic Risk Analysis
-
-# States with the highest churn rates include:
-
-California (CA)
-Ohio (OH)
-Pennsylvania (PA)
-Maryland (MD)
-
-These regions may require:
-
-Targeted retention campaigns
-Improved customer service
-Competitive pricing strategies
+- [ ] From our dashboard we summarised the most affected reasons based on multiple factors:
+ 1. Most reason to churned the customers was  from the competitors who had been offering better services and offers. Then we made deep analysis to found the most two services that attracted the customers were from the competitors : that made better offerings to the customers then these competitors who had better devices. 
+2. Based on the demographic data we found that the most churning was from seniors.
+ 3. Based on the age of churned customers, we found that people in older ages were tended to leave the company services.
+4. Based on the usage rates of data, highest percentage of churn were from customers who used ( <5GB) .
+ 5. Based on the states, who lives in California (CA) Ohio (OH) Pennsylvania (PA) Maryland (MD).
 
 # Key Business Conclusions
 Competition is the strongest driver of churn.
